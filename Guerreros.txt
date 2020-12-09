@@ -1,0 +1,8 @@
+Luis
+60
+Guerrero
+500
+Michel
+100
+Guerrero
+750
